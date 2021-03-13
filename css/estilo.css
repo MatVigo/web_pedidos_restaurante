@@ -1,0 +1,31 @@
+#formulario {
+    width: 20%;
+    height: 200px;
+    margin: auto;
+    padding: 33px;
+    background-color: greenyellow;
+    font-family: arial;
+    
+}
+
+input{
+    padding: 8px;
+    margin: 0;
+    width: 94%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#boton {
+    width: 100%;
+}
+
+label {
+    text-align: center;
+    
+}
+
+#label_clave{
+    margin-top: 10px;
+}
+
